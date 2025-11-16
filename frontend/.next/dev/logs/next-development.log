@@ -1,0 +1,490 @@
+[00:00:02.581] Server  LOG      ✓ Ready in 2.1s
+[00:02:11.260] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+
+Check the render method of `div`.  It was passed a child from DashboardLayout.
+[00:02:11.260] Browser LOG     postId: 
+[00:02:11.260] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:02:11.260] Browser LOG     postId: 
+[00:02:11.260] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:02:11.260] Browser LOG     postId: 
+[00:02:11.260] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:13:56.112] Browser LOG     postId: 
+[00:13:56.113] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:15:44.718] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+
+Check the render method of `div`.  It was passed a child from DashboardLayout.
+[00:16:50.708] Browser LOG     postId: 
+[00:16:50.708] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:16:50.708] Browser LOG     postId: 
+[00:16:50.708] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:16:50.708] Browser LOG     postId: 
+[00:16:50.708] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:16:52.617] Browser LOG     [{"__v":0,"_id":"691978abf2b7d4218bf30985","connectionId":"6915ef3be978253c24c85789","status_accepted":true,"userId":{"_id":"6915ef4ae978253c24c8578e","email":"zaib@gmail.com","name":"zaib","profilePicture":"default.jpg","username":"zaib"}}]
+[00:16:52.735] Browser LOG     [{"__v":0,"_id":"691978abf2b7d4218bf30985","connectionId":"6915ef3be978253c24c85789","status_accepted":true,"userId":{"_id":"6915ef4ae978253c24c8578e","email":"zaib@gmail.com","name":"zaib","profilePicture":"default.jpg","username":"zaib"}}]
+[00:17:46.216] Browser LOG     [{"__v":0,"_id":"691978abf2b7d4218bf30985","connectionId":"6915ef3be978253c24c85789","status_accepted":true,"userId":{"_id":"6915ef4ae978253c24c8578e","email":"zaib@gmail.com","name":"zaib","profilePicture":"default.jpg","username":"zaib"}}]
+[00:17:46.216] Browser LOG     [2;38;2;124;124;124m%s[0m [{"__v":0,"_id":"691978abf2b7d4218bf30985","connectionId":"6915ef3be978253c24c85789","status_accepted":true,"userId":{"_id":"6915ef4ae978253c24c8578e","email":"zaib@gmail.com","name":"zaib","profilePicture":"default.jpg","username":"zaib"}}]
+[00:17:46.216] Browser LOG     [{"__v":0,"_id":"691978abf2b7d4218bf30985","connectionId":"6915ef3be978253c24c85789","status_accepted":true,"userId":{"_id":"6915ef4ae978253c24c8578e","email":"zaib@gmail.com","name":"zaib","profilePicture":"default.jpg","username":"zaib"}}]
+[00:17:46.216] Browser LOG     [{"__v":0,"_id":"691978abf2b7d4218bf30985","connectionId":"6915ef3be978253c24c85789","status_accepted":true,"userId":{"_id":"6915ef4ae978253c24c8578e","email":"zaib@gmail.com","name":"zaib","profilePicture":"default.jpg","username":"zaib"}}]
+[00:17:48.149] Browser LOG     postId: 
+[00:17:48.149] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:17:48.150] Browser LOG     postId: 
+[00:17:48.150] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:17:48.150] Browser LOG     postId: 
+[00:17:48.150] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:17:48.150] Browser LOG     postId: 
+[00:17:48.150] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:17:48.150] Browser LOG     postId: 
+[00:17:48.150] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:17:48.150] Browser LOG     postId: 
+[00:17:48.150] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:18:59.533] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+
+Check the render method of `div`.  It was passed a child from DashboardLayout.
+[00:18:59.533] Browser LOG     postId: 
+[00:18:59.533] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:20:04.703] Browser LOG     postId: 
+[00:20:04.703] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:20:04.703] Browser LOG     postId: 
+[00:20:04.703] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:20:40.641] Browser LOG     postId: 6916de764074fdeda45c499d
+[00:20:40.641] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916de764074fdeda45c499d
+[00:20:40.641] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+
+Check the render method of `Dashboard`. 
+[00:25:13.753] Browser LOG     postId: 
+[00:25:13.753] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:25:15.181] Browser LOG     postId: 6916de764074fdeda45c499d
+[00:25:15.181] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916de764074fdeda45c499d
+[00:25:16.804] Browser LOG     postId: 6916de764074fdeda45c499d
+[00:25:16.804] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916de764074fdeda45c499d
+[00:25:18.934] Browser LOG     postId: 6916de764074fdeda45c499d
+[00:25:18.935] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916de764074fdeda45c499d
+[00:25:19.987] Browser LOG     postId: 
+[00:25:19.987] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:25:21.615] Browser LOG     postId: 6916d6994074fdeda45c492e
+[00:25:21.615] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916d6994074fdeda45c492e
+[00:25:23.262] Browser LOG     postId: 6916d6994074fdeda45c492e
+[00:25:23.262] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916d6994074fdeda45c492e
+[00:25:23.431] Browser LOG     postId: 6916d6994074fdeda45c492e
+[00:25:23.431] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916d6994074fdeda45c492e
+[00:25:23.632] Browser LOG     postId: 6916d6994074fdeda45c492e
+[00:25:23.632] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916d6994074fdeda45c492e
+[00:25:23.837] Browser LOG     postId: 6916d6994074fdeda45c492e
+[00:25:23.837] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916d6994074fdeda45c492e
+[00:25:23.837] Browser LOG     postId: 6916d6994074fdeda45c492e
+[00:25:23.837] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916d6994074fdeda45c492e
+[00:25:25.280] Browser LOG     postId: 6916d6994074fdeda45c492e
+[00:25:25.280] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916d6994074fdeda45c492e
+[00:25:25.280] Browser LOG     postId: 6916d6994074fdeda45c492e
+[00:25:25.280] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916d6994074fdeda45c492e
+[00:25:25.486] Browser LOG     postId: 6916d6994074fdeda45c492e
+[00:25:25.486] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916d6994074fdeda45c492e
+[00:25:25.718] Browser LOG     postId: 6916d6994074fdeda45c492e
+[00:25:25.718] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916d6994074fdeda45c492e
+[00:25:27.823] Browser LOG     {"body":"Nice game","post_id":"6916d6994074fdeda45c492e"}
+[00:25:27.989] Browser LOG     postId: 6916d6994074fdeda45c492e
+[00:25:27.989] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 6916d6994074fdeda45c492e
+[00:25:29.740] Browser LOG     postId: 
+[00:25:29.740] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:37:18.525] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+
+Check the render method of `div`.  It was passed a child from DashboardLayout.
+[00:37:18.525] Browser LOG     postId: 
+[00:37:18.525] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:37:18.525] Browser LOG     postId: 
+[00:37:18.525] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:38:12.320] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+
+Check the render method of `div`.  It was passed a child from DashboardLayout.
+[00:38:12.320] Browser LOG     postId: 
+[00:38:12.320] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:38:12.320] Browser LOG     postId: 
+[00:38:12.320] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:38:31.923] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+
+Check the render method of `div`.  It was passed a child from DashboardLayout.
+[00:38:31.923] Browser LOG     postId: 
+[00:38:31.923] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:38:31.923] Browser LOG     postId: 
+[00:38:31.923] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:43:32.931] Browser LOG     [{"__v":0,"_id":"691978abf2b7d4218bf30985","connectionId":"6915ef3be978253c24c85789","status_accepted":true,"userId":{"_id":"6915ef4ae978253c24c8578e","email":"zaib@gmail.com","name":"zaib","profilePicture":"default.jpg","username":"zaib"}}]
+[00:43:32.931] Browser LOG     [{"__v":0,"_id":"691978abf2b7d4218bf30985","connectionId":"6915ef3be978253c24c85789","status_accepted":true,"userId":{"_id":"6915ef4ae978253c24c8578e","email":"zaib@gmail.com","name":"zaib","profilePicture":"default.jpg","username":"zaib"}}]
+[00:43:35.533] Server  LOG     From View
+[00:43:35.637] Server  LOG     {}
+[00:43:35.772] Browser LOG     [] 6915ef3be978253c24c85789
+[00:43:35.772] Browser LOG     [2;38;2;124;124;124m%s[0m [] 6915ef3be978253c24c85789
+[00:43:36.120] Browser LOG     [] 6915ef3be978253c24c85789
+[00:43:36.120] Browser LOG     [] 6915ef3be978253c24c85789
+[00:43:36.120] Browser LOG     [] 6915ef3be978253c24c85789
+[00:43:36.120] Browser LOG     [] 6915ef3be978253c24c85789
+[00:43:38.735] Server  LOG     From View
+[00:43:38.811] Server  LOG     {}
+[00:43:38.942] Browser LOG     [] 6915ef4ae978253c24c8578e
+[00:43:38.942] Browser LOG     [2;38;2;124;124;124m%s[0m [] 6915ef4ae978253c24c8578e
+[00:43:39.223] Browser LOG     [] 6915ef4ae978253c24c8578e
+[00:43:39.223] Browser LOG     [] 6915ef4ae978253c24c8578e
+[00:43:39.223] Browser LOG     [] 6915ef4ae978253c24c8578e
+[00:43:39.223] Browser LOG     [] 6915ef4ae978253c24c8578e
+[00:44:25.664] Browser LOG     postId: 
+[00:44:25.664] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:25.664] Browser LOG     postId: 
+[00:44:25.664] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:25.664] Browser LOG     postId: 
+[00:44:25.664] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:25.664] Browser LOG     postId: 
+[00:44:25.664] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:25.664] Browser LOG     postId: 
+[00:44:25.664] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:25.664] Browser LOG     postId: 
+[00:44:25.664] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:48.058] Browser LOG     postId: 
+[00:44:48.059] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:48.059] Browser LOG     postId: 
+[00:44:48.059] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:48.059] Browser LOG     postId: 
+[00:44:48.059] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:48.059] Browser LOG     postId: 
+[00:44:48.059] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:48.059] Browser LOG     postId: 
+[00:44:48.059] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:48.059] Browser LOG     postId: 
+[00:44:48.059] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:52.645] Browser LOG     postId: 
+[00:44:52.645] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:52.645] Browser LOG     postId: 
+[00:44:52.645] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:52.645] Browser LOG     postId: 
+[00:44:52.645] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:52.645] Browser LOG     postId: 
+[00:44:52.645] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:52.645] Browser LOG     postId: 
+[00:44:52.645] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:44:52.645] Browser LOG     postId: 
+[00:44:52.645] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:45:11.965] Browser LOG     [{"__v":0,"_id":"691978abf2b7d4218bf30985","connectionId":"6915ef3be978253c24c85789","status_accepted":true,"userId":{"_id":"6915ef4ae978253c24c8578e","email":"zaib@gmail.com","name":"zaib","profilePicture":"default.jpg","username":"zaib"}}]
+[00:45:11.965] Browser LOG     [2;38;2;124;124;124m%s[0m [{"__v":0,"_id":"691978abf2b7d4218bf30985","connectionId":"6915ef3be978253c24c85789","status_accepted":true,"userId":{"_id":"6915ef4ae978253c24c8578e","email":"zaib@gmail.com","name":"zaib","profilePicture":"default.jpg","username":"zaib"}}]
+[00:45:11.965] Browser LOG     [{"__v":0,"_id":"691978abf2b7d4218bf30985","connectionId":"6915ef3be978253c24c85789","status_accepted":true,"userId":{"_id":"6915ef4ae978253c24c8578e","email":"zaib@gmail.com","name":"zaib","profilePicture":"default.jpg","username":"zaib"}}]
+[00:45:11.965] Browser LOG     [{"__v":0,"_id":"691978abf2b7d4218bf30985","connectionId":"6915ef3be978253c24c85789","status_accepted":true,"userId":{"_id":"6915ef4ae978253c24c8578e","email":"zaib@gmail.com","name":"zaib","profilePicture":"default.jpg","username":"zaib"}}]
+[00:45:15.684] Browser LOG     postId: 
+[00:45:15.684] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:45:15.684] Browser LOG     postId: 
+[00:45:15.684] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:45:15.684] Browser LOG     postId: 
+[00:45:15.684] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:45:15.684] Browser LOG     postId: 
+[00:45:15.684] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:45:15.684] Browser LOG     postId: 
+[00:45:15.684] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:45:15.684] Browser LOG     postId: 
+[00:45:15.684] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:51:26.913] Server  ERROR    ⨯ ./src/pages/view_profile/[username].jsx
+Error:   × Expected '</', got '.'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\view_profile\[username].jsx:99:1]
+  96 │           </div>
+  97 │           <div className={styles.profileContainer_details}>
+  98 │ 
+  99 │             <div className={styles..profileContainer_details_main }>
+     ·                                    ─
+ 100 │               <div style={{ flex: "0.8" }}>
+ 101 │                 <div
+ 101 │                   style={{
+     ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/pages/view_profile/[username].jsx
+[00:51:27.570] Browser ERROR   ./src/pages/view_profile/[username].jsx
+Error:   × Expected '</', got '.'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\view_profile\[username].jsx:99:1]
+  96 │           </div>
+  97 │           <div className={styles.profileContainer_details}>
+  98 │ 
+  99 │             <div className={styles..profileContainer_details_main }>
+     ·                                    ─
+ 100 │               <div style={{ flex: "0.8" }}>
+ 101 │                 <div
+ 101 │                   style={{
+     ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/pages/view_profile/[username].jsx
+[00:54:11.036] Browser LOG     postId: 
+[00:54:11.036] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:54:11.036] Browser LOG     postId: 
+[00:54:11.036] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:54:11.036] Browser LOG     postId: 
+[00:54:11.036] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:54:11.036] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+
+Check the render method of `div`.  It was passed a child from DashboardLayout.
+[00:54:11.036] Browser LOG     postId: 
+[00:54:11.036] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:54:11.036] Browser LOG     postId: 
+[00:54:11.036] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:54:11.036] Browser LOG     postId: 
+[00:54:11.036] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:54:11.036] Browser LOG     postId: 
+[00:54:11.036] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:54:11.036] Browser LOG     postId: 
+[00:54:11.036] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[00:54:16.391] Server  LOG     From View
+[00:54:16.460] Server  LOG     {}
+[00:54:16.585] Browser LOG     [] 6915ef3be978253c24c85789
+[00:54:16.585] Browser LOG     [2;38;2;124;124;124m%s[0m [] 6915ef3be978253c24c85789
+[00:54:16.827] Browser LOG     [] 6915ef3be978253c24c85789
+[00:54:16.827] Browser LOG     [] 6915ef3be978253c24c85789
+[00:54:16.827] Browser LOG     [] 6915ef3be978253c24c85789
+[00:54:16.827] Browser LOG     [] 6915ef3be978253c24c85789
+[01:01:16.291] Browser LOG     [] 6915ef3be978253c24c85789
+[01:21:02.776] Browser LOG     Login....
+[01:21:03.618] Browser LOG     postId: 
+[01:21:03.618] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[01:21:03.618] Browser LOG     postId: 
+[01:21:03.618] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[01:21:03.618] Browser LOG     postId: 
+[01:21:03.618] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[01:21:06.381] Browser LOG     postId: 
+[01:21:06.381] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[01:21:06.381] Browser LOG     postId: 
+[01:21:06.381] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[01:21:06.600] Browser LOG     postId: 
+[01:21:06.600] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[01:21:06.739] Browser LOG     postId: 
+[01:21:06.739] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[01:21:07.020] Browser LOG     postId: 
+[01:21:07.020] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[01:21:07.222] Browser LOG     postId: 
+[01:21:07.222] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[01:21:09.325] Browser LOG     postId: 
+[01:21:09.325] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[01:21:09.325] Browser LOG     postId: 
+[01:21:09.325] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
+[01:24:44.145] Server  ERROR    ⨯ ./src/pages/dashboard/index.jsx
+Error:   × Expected '</', got '?'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\dashboard\index.jsx:156:1]
+ 153 │                           </p>
+ 154 │                           <p style={{ paddingTop: "1.2rem" }}>{post.body}</p>
+ 155 │                           <div className={styles.singleCard_image}>
+ 156 │                             {post.media !== ? <img src={`${BASE_URL}/${post.media}`} /> : <></>}
+     ·                                             ─
+ 157 │                           </div>
+ 158 │ 
+ 158 │                           <div className={styles.optionsContainer}>
+     ╰────
+
+Caused by:
+    Syntax Error
+[01:24:44.569] Browser ERROR   ./src/pages/dashboard/index.jsx
+Error:   × Expected '</', got '?'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\dashboard\index.jsx:156:1]
+ 153 │                           </p>
+ 154 │                           <p style={{ paddingTop: "1.2rem" }}>{post.body}</p>
+ 155 │                           <div className={styles.singleCard_image}>
+ 156 │                             {post.media !== ? <img src={`${BASE_URL}/${post.media}`} /> : <></>}
+     ·                                             ─
+ 157 │                           </div>
+ 158 │ 
+ 158 │                           <div className={styles.optionsContainer}>
+     ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/pages/dashboard/index.jsx
+[01:25:00.653] Server  ERROR    ⨯ ./src/pages/dashboard/index.jsx
+Error:   × Expected '</', got '?'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\dashboard\index.jsx:156:1]
+ 153 │                           </p>
+ 154 │                           <p style={{ paddingTop: "1.2rem" }}>{post.body}</p>
+ 155 │                           <div className={styles.singleCard_image}>
+ 156 │                             {post.media !== ? <img src={`${BASE_URL}/${post.media}`} /> : <></>}
+     ·                                             ─
+ 157 │                           </div>
+ 158 │ 
+ 158 │                           <div className={styles.optionsContainer}>
+     ╰────
+
+Caused by:
+    Syntax Error
+[01:25:01.573] Browser ERROR   ./src/pages/dashboard/index.jsx
+Error:   × Expected '</', got '?'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\dashboard\index.jsx:156:1]
+ 153 │                           </p>
+ 154 │                           <p style={{ paddingTop: "1.2rem" }}>{post.body}</p>
+ 155 │                           <div className={styles.singleCard_image}>
+ 156 │                             {post.media !== ? <img src={`${BASE_URL}/${post.media}`} /> : <></>}
+     ·                                             ─
+ 157 │                           </div>
+ 158 │ 
+ 158 │                           <div className={styles.optionsContainer}>
+     ╰────
+
+Caused by:
+    Syntax Error
+[01:25:01.574] Browser ERROR   ./src/pages/dashboard/index.jsx
+Error:   × Expected '</', got '?'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\dashboard\index.jsx:156:1]
+ 153 │                           </p>
+ 154 │                           <p style={{ paddingTop: "1.2rem" }}>{post.body}</p>
+ 155 │                           <div className={styles.singleCard_image}>
+ 156 │                             {post.media !== ? <img src={`${BASE_URL}/${post.media}`} /> : <></>}
+     ·                                             ─
+ 157 │                           </div>
+ 158 │ 
+ 158 │                           <div className={styles.optionsContainer}>
+     ╰────
+
+Caused by:
+    Syntax Error
+[01:25:01.574] Browser ERROR   ./src/pages/dashboard/index.jsx
+Error:   × Expected '</', got '?'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\dashboard\index.jsx:156:1]
+ 153 │                           </p>
+ 154 │                           <p style={{ paddingTop: "1.2rem" }}>{post.body}</p>
+ 155 │                           <div className={styles.singleCard_image}>
+ 156 │                             {post.media !== ? <img src={`${BASE_URL}/${post.media}`} /> : <></>}
+     ·                                             ─
+ 157 │                           </div>
+ 158 │ 
+ 158 │                           <div className={styles.optionsContainer}>
+     ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/pages/dashboard/index.jsx
+[01:25:08.688] Server  ERROR    ⨯ ./src/pages/dashboard/index.jsx
+Error:   × Expected '</', got '?'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\dashboard\index.jsx:156:1]
+ 153 │                           </p>
+ 154 │                           <p style={{ paddingTop: "1.2rem" }}>{post.body}</p>
+ 155 │                           <div className={styles.singleCard_image}>
+ 156 │                             {post.media !== ? <img src={`${BASE_URL}/${post.media}`} /> : <>}
+     ·                                             ─
+ 157 │                           </div>
+ 158 │ 
+ 158 │                           <div className={styles.optionsContainer}>
+     ╰────
+
+Caused by:
+    Syntax Error
+[01:25:09.568] Browser ERROR   ./src/pages/dashboard/index.jsx
+Error:   × Expected '</', got '?'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\dashboard\index.jsx:156:1]
+ 153 │                           </p>
+ 154 │                           <p style={{ paddingTop: "1.2rem" }}>{post.body}</p>
+ 155 │                           <div className={styles.singleCard_image}>
+ 156 │                             {post.media !== ? <img src={`${BASE_URL}/${post.media}`} /> : <></>}
+     ·                                             ─
+ 157 │                           </div>
+ 158 │ 
+ 158 │                           <div className={styles.optionsContainer}>
+     ╰────
+
+Caused by:
+    Syntax Error
+[01:25:09.568] Browser ERROR   ./src/pages/dashboard/index.jsx
+Error:   × Expected '</', got '?'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\dashboard\index.jsx:156:1]
+ 153 │                           </p>
+ 154 │                           <p style={{ paddingTop: "1.2rem" }}>{post.body}</p>
+ 155 │                           <div className={styles.singleCard_image}>
+ 156 │                             {post.media !== ? <img src={`${BASE_URL}/${post.media}`} /> : <>}
+     ·                                             ─
+ 157 │                           </div>
+ 158 │ 
+ 158 │                           <div className={styles.optionsContainer}>
+     ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/pages/dashboard/index.jsx
+[01:26:35.964] Server  ERROR    ⨯ ./src/pages/dashboard/index.jsx
+Error:   × Expected '</', got '?'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\dashboard\index.jsx:156:1]
+ 153 │                           </p>
+ 154 │                           <p style={{ paddingTop: "1.2rem" }}>{post.body}</p>
+ 155 │                           <div className={styles.singleCard_image}>
+ 156 │                             {post.media !== ? (<img src={`${BASE_URL}/${post.media}`} />) : (<></>)}
+     ·                                             ─
+ 157 │                           </div>
+ 158 │ 
+ 158 │                           <div className={styles.optionsContainer}>
+     ╰────
+
+Caused by:
+    Syntax Error
+[01:26:36.564] Browser ERROR   ./src/pages/dashboard/index.jsx
+Error:   × Expected '</', got '?'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\dashboard\index.jsx:156:1]
+ 153 │                           </p>
+ 154 │                           <p style={{ paddingTop: "1.2rem" }}>{post.body}</p>
+ 155 │                           <div className={styles.singleCard_image}>
+ 156 │                             {post.media !== ? <img src={`${BASE_URL}/${post.media}`} /> : <>}
+     ·                                             ─
+ 157 │                           </div>
+ 158 │ 
+ 158 │                           <div className={styles.optionsContainer}>
+     ╰────
+
+Caused by:
+    Syntax Error
+[01:26:36.564] Browser ERROR   ./src/pages/dashboard/index.jsx
+Error:   × Expected '</', got '?'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\dashboard\index.jsx:156:1]
+ 153 │                           </p>
+ 154 │                           <p style={{ paddingTop: "1.2rem" }}>{post.body}</p>
+ 155 │                           <div className={styles.singleCard_image}>
+ 156 │                             {post.media !== ? (<img src={`${BASE_URL}/${post.media}`} />) : (<></>)}
+     ·                                             ─
+ 157 │                           </div>
+ 158 │ 
+ 158 │                           <div className={styles.optionsContainer}>
+     ╰────
+
+Caused by:
+    Syntax Error
+[01:26:36.564] Browser ERROR   ./src/pages/dashboard/index.jsx
+Error:   × Expected '</', got '?'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\dashboard\index.jsx:156:1]
+ 153 │                           </p>
+ 154 │                           <p style={{ paddingTop: "1.2rem" }}>{post.body}</p>
+ 155 │                           <div className={styles.singleCard_image}>
+ 156 │                             {post.media !== ? (<img src={`${BASE_URL}/${post.media}`} />) : (<></>)}
+     ·                                             ─
+ 157 │                           </div>
+ 158 │ 
+ 158 │                           <div className={styles.optionsContainer}>
+     ╰────
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/pages/dashboard/index.jsx
+[01:27:22.567] Browser ERROR   ./src/pages/dashboard/index.jsx
+Error:   × Expected '</', got '?'
+     ╭─[C:\Users\shaikh zaib\Coding\Web development\Projects\Social-Media(Linkedin)\frontend\src\pages\dashboard\index.jsx:156:1]
+ 153 │                           </p>
+ 154 │                           <p style={{ paddingTop: "1.2rem" }}>{post.body}</p>
+ 155 │                           <div className={styles.singleCard_image}>
+ 156 │                             {post.media !== ? (<img src={`${BASE_URL}/${post.media}`} />) : (<></>)}
+     ·                                             ─
+ 157 │                           </div>
+ 158 │ 
+ 158 │                           <div className={styles.optionsContainer}>
+     ╰────
+
+Caused by:
+    Syntax Error
+[01:27:22.567] Browser LOG     postId: 
+[01:27:22.567] Browser LOG     [2;38;2;124;124;124m%s[0m postId: 
